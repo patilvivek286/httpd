@@ -1,0 +1,2 @@
+# httpd
+static site
